@@ -47,4 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Flip Card Game
 
-run the application for a flip card game. This currenly has a ransom function generator and some static URLs and data which youc an use to play games like Geo Guesser, Who amongst the team member , maybe if you enhance can also be used for Word Games
+run the application for a flip card game. This currenly has a random number generator function which gives a number and then we display a flip card using this number from some static URLs and data which you can use to play games like Geo Guesser, Who amongst the team member , maybe if you enhance can also be used for Word Games
